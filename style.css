@@ -55,6 +55,18 @@ align-items: center ;
   }
 
   .estudante-todos{
+    background-color: #760007;
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%; 
+    grid-template-columns: 20% 25% 20% 4% 20%; 
+  }
+
+  .rodape{
+    background-color: #000000;
+    text-align: center;
+  }
+
+  .rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    text-align: center;
   }
